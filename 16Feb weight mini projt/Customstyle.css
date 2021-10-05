@@ -352,10 +352,10 @@ checkbox, label{
 }
 */
 #accountTabs .nav-tabs li{
-	width: 200px;
+	width: 270px;
 	font-size: 1.1em;
-	line-height: 180%;
-	font-family: Helvetica, sans-serif;
+	line-height: 1110%;
+	family: Akkad;
 	font-weight: 200;
 }
 #accountTabs .nav-tabs a{
